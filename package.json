@@ -1,0 +1,22 @@
+{
+  "name": "security-headers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proxtx/security-headers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Proxtx/security-headers/issues"
+  },
+  "homepage": "https://github.com/Proxtx/security-headers#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
