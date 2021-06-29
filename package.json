@@ -1,5 +1,5 @@
 {
-  "name": "security-headers",
+  "name": "security-headers-check",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
