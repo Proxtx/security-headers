@@ -33,7 +33,7 @@ const headers = [
   },
 ];
 
-export const getHeaders = async (url) => {
+module.exports = async (url) => {
   const result = await fetch(url);
   let headerData = {};
   let headersPassed = 0;
